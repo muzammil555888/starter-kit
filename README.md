@@ -14,6 +14,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## starter-kit
 Starter kit, basic Admin Dashboard Design with Custom Modules Structure. This kit contain admin dashboard minimal home page setup that can be access on this route /admin/home 
+Full Dashboard Theme can be found in public directory
 
 ### Premium Partners
 
